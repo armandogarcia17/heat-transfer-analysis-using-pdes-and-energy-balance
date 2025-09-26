@@ -102,13 +102,6 @@ R2021a to R2022b
 
 
   
-# ToDo
-
-
-*Create a simpler version of the House insulation case study, eg: start with a course mesh already defined in a node definition EXCEL file.*
-
-
-  
 ## System Requirements
 
 
@@ -129,6 +122,7 @@ The Demo has the following product dependencies:
 
 
 First draft 25-Jul-2021
+
 
 
 
