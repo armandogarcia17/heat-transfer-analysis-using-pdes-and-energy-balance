@@ -32,7 +32,7 @@ In this demo packet we perform a thermal analysis on a collection of **1-D trans
 
 
 
-![image_0.png](NOT_Sharable_OUTSIDE_TMW/images_for_README/image_0.png)
+![image_0.png](images_for_README/image_0.png)
 
 
   
@@ -57,7 +57,7 @@ The following infographic summarises the intentions of this demo:
 
 
 
-![image_1.png](NOT_Sharable_OUTSIDE_TMW/images_for_README/image_1.png)
+![image_1.png](images_for_README/image_1.png)
 
 
 ## Suggested Audience
@@ -86,7 +86,7 @@ A **Heat transfer** class:
 
 
 
-![image_2.png](NOT_Sharable_OUTSIDE_TMW/images_for_README/image_2.png)
+![image_2.png](images_for_README/image_2.png)
 
 
 ## Workflow
@@ -129,5 +129,6 @@ The Demo has the following product dependencies:
 
 
 First draft 25-Jul-2021
+
 
 
